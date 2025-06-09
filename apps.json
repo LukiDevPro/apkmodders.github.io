@@ -1,0 +1,46 @@
+[
+  {
+    "id": "app1",
+    "name": "Cool Modded App",
+    "version": "1.0.5",
+    "category": "Tools",
+    "description": "An amazing tool with exclusive mod features. Enjoy ad-free experience and unlocked premium functionalities.",
+    "icon_url": "https://via.placeholder.com/100?text=App1",
+    "screenshots": [
+      "https://via.placeholder.com/400x200?text=Screenshot1",
+      "https://via.placeholder.com/400x200?text=Screenshot2"
+    ],
+    "mod_features": ["No Ads", "Premium Unlocked", "Extra Speed"],
+    "download_url": "YOUR_EXTERNAL_DOWNLOAD_LINK_FOR_APP1.apk",
+    "size": "25MB",
+    "updated_date": "2023-10-26"
+  },
+  {
+    "id": "game1",
+    "name": "Epic Adventure Game (MOD)",
+    "version": "2.1.0",
+    "category": "Games",
+    "description": "Embark on an epic adventure with unlimited coins and all characters unlocked. Defeat all enemies!",
+    "icon_url": "https://via.placeholder.com/100?text=Game1",
+    "screenshots": [
+      "https://via.placeholder.com/400x200?text=GameScreenshot1"
+    ],
+    "mod_features": ["Unlimited Coins", "All Characters Unlocked", "God Mode"],
+    "download_url": "YOUR_EXTERNAL_DOWNLOAD_LINK_FOR_GAME1.apk",
+    "size": "150MB",
+    "updated_date": "2023-10-25"
+  },
+  {
+    "id": "app2",
+    "name": "Utility Pro (Patched)",
+    "version": "3.0.0",
+    "category": "Productivity",
+    "description": "The ultimate productivity utility, now patched for full access. Organize your life like never before.",
+    "icon_url": "https://via.placeholder.com/100?text=App2",
+    "screenshots": [],
+    "mod_features": ["Full Version Patched", "No Login Required"],
+    "download_url": "YOUR_EXTERNAL_DOWNLOAD_LINK_FOR_APP2.apk",
+    "size": "10MB",
+    "updated_date": "2023-10-27"
+  }
+]
